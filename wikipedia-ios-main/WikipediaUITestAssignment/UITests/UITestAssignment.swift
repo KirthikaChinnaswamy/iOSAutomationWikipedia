@@ -35,7 +35,7 @@ class UITestAssignment: BaseUITests {
             .verifyWikiPage(wikiPageElements: wikiPageElements)
             .backToHistory()
             .backtoHome()
-            .verifyHomePage()
+            .verifyWikiLandingPage()
     }
 
     override func tearDown() {

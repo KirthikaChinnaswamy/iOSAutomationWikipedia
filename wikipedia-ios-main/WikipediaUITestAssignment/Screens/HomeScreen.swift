@@ -18,7 +18,7 @@ public class HomeScreen: CommonUtility {
     
     
     func verifyHomePage() -> HomeScreen {
-        checkForElement(appTitle, description: "App Title/checkforappTitle")
+        verifyWikiLandingPage()
         return self
     }
     
@@ -33,5 +33,9 @@ public class HomeScreen: CommonUtility {
         tapOn(result,seconds: 5, action: .exists, description: "suggestion for SearchTerm/tapOnResult")
         
         return ResultScreen()
+    }
+    
+    func verifyWikiLandingPage() {
+        checkForElement(appTitle, description: "App Title/checkforappTitle")
     }
 }
