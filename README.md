@@ -29,7 +29,7 @@ Wikipedia iOS Test Automation framework is created with Fluent Page Objects Mode
 
 **Building and Running**
 
-To setup Wikipedia project in XCode, kindly refer -> https://github.com/wikimedia/wikipedia-ios#readme
+To setup Wikipedia project in XCode, kindly refer -> https://github.com/KirthikaChinnaswamy/iOSAutomationWikipedia/tree/main/wikipedia-ios-main#readme
 
 Move to /wikipedia-ios-main/WikipediaUITestAssignment/UITests/UITestAssignment.swift and run testWikiTest for UI Test case which is created for the evaluation
 
