@@ -2,7 +2,7 @@
 
 **UITest Automation Framework Structure** 
 
-	Wikipedia iOS Test Automation framework is created with Fluent Page Objects Model to significantly improve the readability of tests. The folder structure is very simple and easy to understand. Maintained separate folder for each actions like Test Data maintenance, Page elements, Reusbale components, Accessibility ID's, etc. Added assertions wherever possible. Please read below for detailed framework structure - 
+Wikipedia iOS Test Automation framework is created with Fluent Page Objects Model to significantly improve the readability of tests. The folder structure is very simple and easy to understand. Maintained separate folder for each actions like Test Data maintenance, Page elements, Reusbale components, Accessibility ID's, etc. Added assertions wherever possible. Please read below for detailed framework structure - 
 
 
 **Screens**  -  Contains elements and functions respective for each screens in the application
@@ -29,9 +29,11 @@
 
 **Building and Running**
 
-To setup Wikipedia project in XCode, kindly refer -> https://github.com/wikimedia/wikipedia-ios#readme
+To setup Wikipedia project in XCode, kindly refer -> https://github.com/KirthikaChinnaswamy/iOSAutomationWikipedia/tree/main/wikipedia-ios-main#readme
 
-Run testWikiTest under UITestAssignment.swift for UI Test case which is created for the evaluation
+Move to /wikipedia-ios-main/WikipediaUITestAssignment/UITests/UITestAssignment.swift and run testWikiTest for UI Test case which is created for the evaluation
+
+****
 
 **Test Flow**
 
@@ -47,3 +49,9 @@ Run testWikiTest under UITestAssignment.swift for UI Test case which is created 
 - Verify the search is recorded
 - Tap on the entry and verify the Wiki page
 - Go back to Home Screen
+
+****
+
+**Video Recording**
+
+UI Test execution is recorded and available here -> https://github.com/KirthikaChinnaswamy/iOSAutomationWikipedia/blob/main/VideoRecording_WikiTest.mov.zip
