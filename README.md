@@ -33,6 +33,8 @@ To setup Wikipedia project in XCode, kindly refer -> https://github.com/Kirthika
 
 Move to /wikipedia-ios-main/WikipediaUITestAssignment/UITests/UITestAssignment.swift and run testWikiTest for UI Test case which is created for the evaluation
 
+****
+
 **Test Flow**
 
 - Launch the Wikipedia app
@@ -48,5 +50,8 @@ Move to /wikipedia-ios-main/WikipediaUITestAssignment/UITests/UITestAssignment.s
 - Tap on the entry and verify the Wiki page
 - Go back to Home Screen
 
+****
+
 **Video Recording**
-UI Test execution is recorded and available here -> VideoRecording_WikiTest.mov.zip
+
+UI Test execution is recorded and available here -> https://github.com/KirthikaChinnaswamy/iOSAutomationWikipedia/blob/main/VideoRecording_WikiTest.mov.zip
