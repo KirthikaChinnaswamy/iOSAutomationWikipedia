@@ -47,3 +47,6 @@ Move to /wikipedia-ios-main/WikipediaUITestAssignment/UITests/UITestAssignment.s
 - Verify the search is recorded
 - Tap on the entry and verify the Wiki page
 - Go back to Home Screen
+
+**Video Recording**
+UI Test execution is recorded and available here -> VideoRecording_WikiTest.mov.zip
